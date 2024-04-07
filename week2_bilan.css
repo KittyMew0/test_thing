@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color:aquamarine;
+}
+
+table, th, tr, td {
+    border: 1px solid black;
+}
+
+#prev {
+    text-align: left;
+}
+
+#next {
+    text-align: right;
+}
